@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividad6Uf1</string>
+    <string name="Button">Botón que muestra el valor recogido en el editText</string>
+    <string name="Ingrese_Toast">Escribe Aqui</string>
+</resources>
